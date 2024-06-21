@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Building" load_steps=3 format=3 uid="uid://bv36h2rbk44qb"]
+
+[ext_resource type="Script" path="res://scripts/building.gd" id="1_wlb8x"]
+[ext_resource type="Texture2D" uid="uid://d0a7tt6ag47qg" path="res://assets/sprites/buoy2.png" id="2_r3dgi"]
+
+[resource]
+script = ExtResource("1_wlb8x")
+texture = ExtResource("2_r3dgi")
